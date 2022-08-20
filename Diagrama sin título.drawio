@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T19:47:53.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jUP7mh4zoaNgHIM98oDg" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-20T19:49:10.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZBIwuH3-10i-gOU0rgwD" version="20.2.5" type="github">
   <diagram id="UR5Xr1XIyfDOLDXCqrN4" name="Página-1">
     <mxGraphModel dx="1447" dy="917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="x47oYI5-GxR4ma4iBS0U-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="x47oYI5-GxR4ma4iBS0U-8" target="x47oYI5-GxR4ma4iBS0U-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x47oYI5-GxR4ma4iBS0U-8" value="Registra" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="x47oYI5-GxR4ma4iBS0U-8" value="Registra Ingreso" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="469" y="37" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x47oYI5-GxR4ma4iBS0U-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="x47oYI5-GxR4ma4iBS0U-11" target="x47oYI5-GxR4ma4iBS0U-13">
